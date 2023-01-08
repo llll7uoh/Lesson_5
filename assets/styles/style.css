@@ -104,8 +104,6 @@ menu>li>a {
     right: 0;
 }
 
-/** ------------ ABOUT  -------------- **/
-
 .about {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -153,7 +151,6 @@ menu>li>a {
     line-height: 120%;
 }
 
-/** ------------ ONGOING  -------------- **/
 .ongoing>h2 {
     font-weight: 700;
     font-size: 48px;
@@ -375,6 +372,8 @@ footer {
     font-size: 12px;
     line-height: 15px;
     color: #BDBDBD;
+    
+    margin: bottom left
 }
 
 .links {
