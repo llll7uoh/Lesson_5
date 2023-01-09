@@ -60,6 +60,7 @@ menu>li>a   {
 
 .hero-content   {
     font-weight: 700;
+    position: relative;
     font-size: 90px;
     line-height: 120px;
 
@@ -98,10 +99,6 @@ menu>li>a   {
 .bg-gray    {
     color: #fffffF;
     background-color: transparent;
-}
-
-.btn-block  {
-
 }
 
 .bg-trans   {
@@ -334,5 +331,4 @@ textarea    {
     align-items: center;
     font-size: 14px;
     color: #ffffff;
-}
 }
